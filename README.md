@@ -92,9 +92,9 @@ var dulaan = new SoftwareEngineer
 
 <div align="center">
 
-![Dulaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sdulaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
+![Dulaan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sdulaan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sdulaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sdulaan&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400)
 
 </div>
 
