@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=6AD3F7&height=200&section=header&text=Dulaan%20Sasitharan&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20.NET%20%2B%20React%20%7C%20Sri%20Lanka&descAlignY=55&descAlign=50)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%92%BB;C%23+%2F+.NET+%2B+React+%2F+TypeScript;Oracle+PL%2FSQL+%7C+PostgreSQL+%7C+SQL+Server;Building+scalable+enterprise+applications+%F0%9F%9A%80;GPA+3.65+%7C+University+of+Jaffna+%F0%9F%8E%93)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6AD3F7&center=true&vCenter=true&width=700&lines=Software+Engineer+%F0%9F%92%BB;C%23+%2F+.NET+%2B+React+%2F+TypeScript;Oracle+PL%2FSQL+%7C+PostgreSQL+%7C+SQL+Server;Building+scalable+enterprise+applications+%F0%9F%9A%80%7C+University+of+Jaffna+%F0%9F%8E%93)](https://git.io/typing-svg)
 
 ![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Sdulaan.Sdulaan&style=for-the-badge&color=6AD3F7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com)
