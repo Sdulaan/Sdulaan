@@ -22,7 +22,7 @@ var dulaan = new SoftwareEngineer
     Location    = "Sri Lanka 🇱🇰",
     CurrentRole = "Junior IFS Technical Consultant @ SEBSA (Pvt) Ltd.",
     Education   = "B.Sc. Hons in IT — University of Jaffna",
-    Experience  = new[] { "IFS R&D International", "PortCity BPO (200M)" },
+    Experience  = new[] { "IFS R&D International", "PortCity BPO (200M)", "SEBSA (Pvt) Ltd" },
     Interests   = new[] { "Backend Systems", "API Design", "DevOps", "Clean Architecture" },
     Email       = "sdulaan@gmail.com"
 };
@@ -55,8 +55,10 @@ var dulaan = new SoftwareEngineer
 ---
 
 ## 💼 Experience
+**🏢 Junior IFS Technical Consultant,SEBSA(Pvt) Ltd** *(Apr 2026 – Present)*
+> Working as a Technical Consultant in IFS ERP Systems.
 
-**🏢 Associate Software Engineer — 200M, PortCity BPO** *(Feb 2026 – Present)*
+**🏢 Associate Software Engineer — 200M, PortCity BPO** *(Feb 2026 – March 2026)*
 > Building production-grade full-stack applications including a Task Manager, SEO Brand Rank Analyzer, and Domain Monitoring Tool using .NET, React, PostgreSQL, and Docker.
 
 **🏢 Undergraduate Trainee Software Engineer — IFS R&D International** *(Jun 2024 – Jun 2025)*
