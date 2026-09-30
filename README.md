@@ -20,7 +20,7 @@ var dulaan = new SoftwareEngineer
 {
     Name        = "Dulaan Sasitharan",
     Location    = "Sri Lanka 🇱🇰",
-    CurrentRole = "Junior IFS Technical Consultant @ SEBSA (Pvt) Ltd.",
+    CurrentRole = "IFS Technical Consultant @ SEBSA (Pvt) Ltd.",
     Education   = "B.Sc. Hons in IT — University of Jaffna",
     Experience  = new[] { "IFS R&D International", "PortCity BPO (200M)", "SEBSA (Pvt) Ltd" },
     Interests   = new[] { "Backend Systems", "API Design", "DevOps", "Clean Architecture" },
